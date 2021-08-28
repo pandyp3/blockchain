@@ -20,7 +20,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/parth-pandya-cfa-50140544/]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -173,24 +173,8 @@ Project Link: [https://github.com/pandyp3/blockchain](https://github.com/pandyp3
 * []()
 * []()
 
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/pandyp3/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/pandyp3/blockchain/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/pandyp3/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/pandyp3/blockchain/network/members
-[stars-shield]: https://img.shields.io/github/stars/pandyp3/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/pandyp3/blockchain/stargazers
-[issues-shield]: https://img.shields.io/github/issues/pandyp3/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/pandyp3/blockchain/issues
-[license-shield]: https://img.shields.io/github/license/pandyp3/repo.svg?style=for-the-badge
-[license-url]: https://github.com/pandyp3/blockchain/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/pandyp3Notepad++ v7.9.5 bug-fixes:
+[linkedin-url]: https://www.linkedin.com/in/parth-pandya-cfa-50140544/ v7.9.5 bug-fixes:
 
 1.  Fix Notepad++ not starting up due to SaveAsAdmin plugin (for installer package).
 2.  Fix UNC path with quotes handling in folder & file Open/Save dialog.
