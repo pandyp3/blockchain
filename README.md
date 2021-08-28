@@ -7,7 +7,7 @@
 ***
 ***
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** github_username, repo_name, twitter_handle, email, project_title, project_description
+*** pandyp3, blockchain, twitter_handle, parthpandya.utsc@gmail.com, Blockchain POC, A Blockchain proof of concept written in Python using Flask
 -->
 
 
@@ -28,23 +28,20 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">Blockchain POC</h3>
 
   <p align="center">
-    project_description
+    A Blockchain proof of concept written in Python using Flask
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/pandyp3/blockchain"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/pandyp3/blockchain">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/pandyp3/blockchain/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/pandyp3/blockchain/issues">Request Feature</a>
   </p>
 </p>
 
@@ -85,7 +82,7 @@
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+`pandyp3`, `blockchain`, `twitter_handle`, `parthpandya.utsc@gmail.com`, `Blockchain POC`, `A Blockchain proof of concept written in Python using Flask`
 
 
 ### Built With
@@ -113,7 +110,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/pandyp3/blockchain.git
    ```
 2. Install NPM packages
    ```sh
@@ -134,7 +131,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/pandyp3/blockchain/issues) for a list of proposed features (and known issues).
 
 
 
@@ -161,9 +158,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - parthpandya.utsc@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/pandyp3/blockchain](https://github.com/pandyp3/blockchain)
 
 
 
@@ -180,15 +177,15 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/pandyp3/repo.svg?style=for-the-badge
+[contributors-url]: https://github.com/pandyp3/blockchain/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/pandyp3/repo.svg?style=for-the-badge
+[forks-url]: https://github.com/pandyp3/blockchain/network/members
+[stars-shield]: https://img.shields.io/github/stars/pandyp3/repo.svg?style=for-the-badge
+[stars-url]: https://github.com/pandyp3/blockchain/stargazers
+[issues-shield]: https://img.shields.io/github/issues/pandyp3/repo.svg?style=for-the-badge
+[issues-url]: https://github.com/pandyp3/blockchain/issues
+[license-shield]: https://img.shields.io/github/license/pandyp3/repo.svg?style=for-the-badge
+[license-url]: https://github.com/pandyp3/blockchain/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/parth-pandya-cfa-50140544/
