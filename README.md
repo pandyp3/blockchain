@@ -60,6 +60,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -99,6 +100,13 @@ Flask is the only library used that's not part of the Anaconda distribution
    ```sh
    pip install Flask
    ```
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+
+* [Udemy - Blockchain A-Z™: Learn How To Build Your First Blockchain]()
+* []()
+* []()
 
 
 
