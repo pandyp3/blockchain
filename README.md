@@ -105,8 +105,6 @@ Flask is the only library used that's not part of the Anaconda distribution
 ## Acknowledgements
 
 * [Udemy - Blockchain A-Z™: Learn How To Build Your First Blockchain]()
-* []()
-* []()
 
 
 
