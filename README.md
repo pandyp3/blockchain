@@ -37,8 +37,6 @@
     <a href="https://github.com/pandyp3/blockchain"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/pandyp3/blockchain">View Demo</a>
-    ·
     <a href="https://github.com/pandyp3/blockchain/issues">Report Bug</a>
     ·
     <a href="https://github.com/pandyp3/blockchain/issues">Request Feature</a>
@@ -78,16 +76,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`pandyp3`, `blockchain`, `twitter_handle`, `parthpandya.utsc@gmail.com`, `Blockchain POC`, `A Blockchain proof of concept written in Python using Flask`
-
+Leveraging a blockchain class and Flask for API integration, this POC allows the user to mine blocks, add transactions, and propogate across multiple nodes.
 
 ### Built With
 
-* []()
+* [Python](Flask)
 * []()
 * []()
 
